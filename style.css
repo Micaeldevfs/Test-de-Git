@@ -2,5 +2,9 @@
     background-color: aqua;
 } 
 .body {
-    backgroud-color: aqua;
+    background-color: aqua;
+}
+.test {
+    background-color: black;
+    width: 50vw;
 }
